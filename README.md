@@ -15,7 +15,7 @@ in the film finder page you can search your added film by keyword/category/runti
 Here is the link of demo video:
 
 
-## Installation
+## How to install and run my app locally
 Download the project from github and download nodejs and npm from https://nodejs.org
 and cd into the folder
 
