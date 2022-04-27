@@ -1,4 +1,6 @@
-# CS103a Express App Demo
+# CS103a CPA2
+
+
 
 This is a starter project which has a simple authentication module 
 and provides access to a mongoose database in the cloud.
