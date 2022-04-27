@@ -1,9 +1,21 @@
-# CS103a Express App Demo
+# CS103a CPA2
 
-This is a starter project which has a simple authentication module 
-and provides access to a mongoose database in the cloud.
+## What this app do and how to use it
+This is a Watchlist app to store and search the films you want to watch in the future.
 
-## Installation
+in the add film page you can add new films to your Watchlist 
+![add.png](https://s2.loli.net/2022/04/28/ciWN1vw4UE9kmlo.png)
+
+in the watchlist page you can see all the films in your watchlist
+![list.png](https://s2.loli.net/2022/04/28/zMvEL5lPqy6KYm9.png)
+
+in the film finder page you can search your added film by keyword/category/runtime/language
+![finder.png](https://s2.loli.net/2022/04/28/zJ9KoFZESe6GN2R.png)
+
+Here is the link of demo video:
+
+
+## How to install and run my app locally
 Download the project from github and download nodejs and npm from https://nodejs.org
 and cd into the folder
 
