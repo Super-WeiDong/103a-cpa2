@@ -2,7 +2,17 @@
 
 ## What this app do and how to use it
 
+
+in the add film page you can add new films to your Watchlist 
+
+in the watchlist page you can see all the films in your watchlist
+
 This is a Watchlist app to store and search the films you want to watch in the future.
+
+in the film finder page you can search your added film by keyword/category/runtime/language
+![finder.png](https://s2.loli.net/2022/04/28/zJ9KoFZESe6GN2R.png)
+
+
 
 
 ## Installation
