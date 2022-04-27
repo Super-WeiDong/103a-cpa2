@@ -1,18 +1,18 @@
 # CS103a CPA2
 
 ## What this app do and how to use it
-
+This is a Watchlist app to store and search the films you want to watch in the future.
 
 in the add film page you can add new films to your Watchlist 
+![add.png](https://s2.loli.net/2022/04/28/ciWN1vw4UE9kmlo.png)
 
 in the watchlist page you can see all the films in your watchlist
-
-This is a Watchlist app to store and search the films you want to watch in the future.
+![list.png](https://s2.loli.net/2022/04/28/zMvEL5lPqy6KYm9.png)
 
 in the film finder page you can search your added film by keyword/category/runtime/language
 ![finder.png](https://s2.loli.net/2022/04/28/zJ9KoFZESe6GN2R.png)
 
-
+Here is the link of demo video:
 
 
 ## Installation
