@@ -1,9 +1,9 @@
 # CS103a CPA2
 
+## What this app do and how to use it
 
+This is a Watchlist app to store and search the films you want to watch in the future.
 
-This is a starter project which has a simple authentication module 
-and provides access to a mongoose database in the cloud.
 
 ## Installation
 Download the project from github and download nodejs and npm from https://nodejs.org
