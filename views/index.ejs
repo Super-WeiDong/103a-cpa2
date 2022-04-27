@@ -1,0 +1,47 @@
+    <div class="jumbotron">
+        <h1>My Watch List </h1>
+        <p></p>
+    </div>
+
+    <p class="p-3 m-3 border border-primary bg-light">
+        In this page, you can filter your favorite movies by name, time, language and category 
+    </p>
+        <form method="post" action="/films/byWord">
+            Search Films by Key Words: 
+            <input type="text" name="word" 
+                    placeholder="e.g. War">
+            <input type="submit">
+        </form>
+        <br>
+        <form method="post" action="/films/byTime1">
+            Search Films under: 
+            <input type="number" name="runtime" 
+                    placeholder="e.g. 100">
+            Munites
+            <input type="submit">
+        </form>
+        <br>
+        <form method="post" action="/films/byTime2">
+            Search Films over: 
+            <input type="number" name="runtime" 
+                    placeholder="e.g. 120">
+            Munites
+            <input type="submit">
+        </form>
+        <br>
+        <form method="post" action="/films/byLanguage">
+            Search Films by Language: 
+              <input type="text" name="language" 
+                     placeholder="e.g. English">
+            <input type="submit">
+        </form>
+        <br>
+        <form method="post" action="/films/byCategory">
+            Search Films by Category: 
+              <input type="text" name="category" 
+                     placeholder="e.g. Love">
+             <input type="submit">
+        </form>
+        <br>
+
+

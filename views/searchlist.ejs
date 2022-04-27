@@ -1,0 +1,24 @@
+<h1>My WatchList</h1>
+<hr>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Runtime</th>
+            <th>Language</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+    <% for (film of films) {
+        const id = film["_id"];
+         %>
+      <tr class="mb-2">
+        <td><Strong><%= film["name"] %></Strong></td>
+        <td><%= film["category"] %></td>
+        <td><%= film["runtime"] %></td>
+        <td><%= film["language"] %></td>
+    </tr>
+    <% } %>
+    </tbody>
+</table>
